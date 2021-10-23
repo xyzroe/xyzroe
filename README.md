@@ -20,7 +20,7 @@ Say thanks to me:
 [![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/xyzroe) 
 
 <br><br>
-![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![badges](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <!--
 **xyzroe/xyzroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
