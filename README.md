@@ -11,7 +11,7 @@
 How to reach me:
 
 [![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/xyzroe) 
-[![badges](https://badges.aleen42.com/src/wechat.svg)](weixin://dl/chat?xyzroe)
+[![badges](https://badges.aleen42.com/src/wechat.svg)](https://github.com/xyzroe/xyzroe/blob/main/wechat.png)
 
 <br>
 Say thanks to me:
