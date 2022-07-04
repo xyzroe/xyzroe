@@ -18,9 +18,9 @@ How to reach me:
 [![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/xyzroe) 
 [![badges](https://badges.aleen42.com/src/wechat.svg)](https://github.com/xyzroe/xyzroe/blob/main/wechat.png)
 
-<br>
-Say thanks to me:
-
+<br>  
+  
+### Like ♥️?  
 [![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/xyzroe) 
 [![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/xyzroe) 
 
