@@ -1,5 +1,10 @@
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 <div align="center">
+  
+
+
 <img src="https://c4.wallpaperflare.com/wallpaper/203/859/712/ukrainian-flag-wallpaper-preview.jpg" height="160px" />
 <img src="https://s.dou.ua/img/announces/Fuck_You_Russia_cover.png" height="160px" />
 </div>
@@ -25,6 +30,7 @@ How to reach me:
 [![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/xyzroe) 
 
 <br><br>
+[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)  
 ![badges](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <!--
