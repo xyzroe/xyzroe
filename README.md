@@ -2,14 +2,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
 <div align="center">
-  
-
-
-<img src="https://c4.wallpaperflare.com/wallpaper/203/859/712/ukrainian-flag-wallpaper-preview.jpg" height="160px" />
-<img src="https://s.dou.ua/img/announces/Fuck_You_Russia_cover.png" height="160px" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xyzroe&show_icons=true&theme=merko" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzroe&layout=compact&theme=merko" height="160px" />
 </div>
