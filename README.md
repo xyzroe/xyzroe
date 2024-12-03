@@ -25,7 +25,6 @@ How to reach me:
 
 <br><br>
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](#)
-<br>
 [![Lebe in Deutschland](https://img.shields.io/static/v1.svg?label=Lebe%20in%20Deutschland&labelColor=FF0000&message=🇩🇪&color=2D2D2D)](#)
 
 ---
