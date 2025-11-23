@@ -29,6 +29,6 @@ How to reach me:
 
 ---
 
-<div align="center"> Created with &#x2764;&#xFE0F; by <a href="https://xyzroe.cc/">xyzroe</a> © 2014-2024</div>
+<div align="center"> Created with &#x2764;&#xFE0F; by <a href="https://xyzroe.cc/">xyzroe</a> © 2014-2025</div>
 
 ---
