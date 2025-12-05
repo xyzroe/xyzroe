@@ -27,6 +27,7 @@ jobs:
         image-file: images/dark.svg
         colors: dark
         include-title: false
+        hide-keys: following, sponsors, sponsoring	
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
